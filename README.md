@@ -10,3 +10,6 @@
 > Ah, books! With every turn of the page, I find myself transported to far-off places and introduced to extraordinary characters. From the realms of fiction to the depths of non-fiction, I relish the knowledge and inspiration that each book bestows upon me.
 
 > But there's more to me than just a love for cars, books and mountainbiking. In addition to my passions for cars, books, and mountain biking, I am deeply fascinated by the world of finance and investments. Specifically, I have a keen interest in portfolio management and public equities.
+
+### First Visual 
+
