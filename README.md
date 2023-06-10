@@ -13,6 +13,7 @@
 
 ### First Visual 
 [Link](https://datawrapper.dwcdn.net/eiKwJ/2/)
+
 ![Happiness Index 2019](https://github.com/NeilGandhi31/NeilGandhi.github.io/blob/main/eiKwJ-happiness-index-for-the-first-30-countries-in-2019.png)
 
 ### Second Visual 
