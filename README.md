@@ -47,3 +47,5 @@
 
 [Link to Kaggle Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country?resource=download)
 
+[World Population Vizualization](https://public.tableau.com/shared/Q54ZXK744?:display_count=n&:origin=viz_share_link)
+
