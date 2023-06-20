@@ -12,7 +12,7 @@
 > But there's more to me than just a love for cars, books and mountainbiking. In addition to my passions for cars, books, and mountain biking, I am deeply fascinated by the world of finance and investments. Specifically, I have a keen interest in portfolio management and public equities.
 
 ### First Visual 
-[Link](https://datawrapper.dwcdn.net/eiKwJ/2/)
+[Link](https://datawrapper.dwcdn.net/7LSdH/1/)
 
 ![Happiness Index 2019](https://github.com/NeilGandhi31/NeilGandhi.github.io/blob/main/eiKwJ-happiness-index-for-the-first-30-countries-in-2019.png)
 
