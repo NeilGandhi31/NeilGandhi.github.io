@@ -34,7 +34,16 @@
 
 >The frame encompasses a variety of businesses that line Main Street, each contributing to the unique character of the neighborhood. Among them is Kevin Champeny, an upscale art gallery known for its exquisite pieces. Next to it is Jasmine Nails & Salon, a popular destination for personal grooming, and Julianne, a contemporary boutique offering modern luxury clothing collections.
 
->Main Street itself is a hub of activity, bustling with cars and pedestrians. Dozens of vehicles flood the roads, navigating through the energetic scene. Many cars are parked along the street, a testament to the numerous shoppers exploring the surrounding small businesses.
+>Main Street itself is a hub of activity, bustling with cars and pedestrians. Dozens of vehicles flooded the roads, navigating through the energetic scene. Many cars are parked along the street, a testament to the numerous shoppers exploring the surrounding small businesses.
 
 >Moving beyond the immediate shops, Carlton Avenue extends into a residential area. This quieter section of the street is a familiar sight for locals, as children can often be seen playing and socializing in the street, adding a touch of youthful liveliness to the neighborhood.
+
+### World Population by Country
+>RAJ KUMAR PANDEY published this dataset 19 days ago on Kaggle.com
+
+>According to the US Census Bureau's world population clock, the global population was estimated to be 7,922,312,800 people as of September 2022. It was projected to reach 8 billion by mid-November of the same year. This is significantly higher than the world population of 7.2 billion in 2015. The world's population continues to grow, with around 140 people being added per minute, mainly due to more births than deaths in most countries.
+
+>However, the population growth rate has been decreasing for many decades. This trend is expected to continue until the population growth rate reaches zero, meaning an equal number of births and deaths, around 2080-2100. At that point, the population is estimated to be around 10.4 billion people. Afterward, the population growth rate is predicted to become negative, resulting in a decline in the global population.
+
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country?resource=download)
 
