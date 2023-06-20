@@ -39,13 +39,25 @@
 >Moving beyond the immediate shops, Carlton Avenue extends into a residential area. This quieter section of the street is a familiar sight for locals, as children can often be seen playing and socializing in the street, adding a touch of youthful liveliness to the neighborhood.
 
 ### World Population by Country
->RAJ KUMAR PANDEY published this dataset 19 days ago on Kaggle.com
+>Raj Kumar Pandey published this dataset 19 days ago on Kaggle.com
 
 >According to the US Census Bureau's world population clock, the global population was estimated to be 7,922,312,800 people as of September 2022. It was projected to reach 8 billion by mid-November of the same year. This is significantly higher than the world population of 7.2 billion in 2015. The world's population continues to grow, with around 140 people being added per minute, mainly due to more births than deaths in most countries.
 
->However, the population growth rate has been decreasing for many decades. This trend is expected to continue until the population growth rate reaches zero, meaning an equal number of births and deaths, around 2080-2100. At that point, the population is estimated to be around 10.4 billion people. Afterward, the population growth rate is predicted to become negative, resulting in a decline in the global population.
+>However, the population growth rate has been decreasing for many decades. This trend is expected to continue until the population growth rate reaches zero, meaning an equal number of births and deaths around 2080-2100. At that point, the population is estimated to be around 10.4 billion people. Afterward, the population growth rate is predicted to become negative, resulting in a decline in the global population.
 
 [Link to Kaggle Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country?resource=download)
 
 [World Population Vizualization](https://public.tableau.com/views/WorldPopulation2_16872799707050/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Analyzing MLB Teams: Physical & Environmental Dimensions of Major League Baseball Stadiums
+>Paul Johnson updated the dataset 2 months ago on Kaggle.com 
+
+>The dataset presents the comprehensive physical and environmental dimensions of Major League Baseball (MLB) ballparks for the 2022 season. These dimensions hold significance in the analysis and prediction of outcomes, with a specific focus on hitting. The dataset was curated as supplementary data for the Expected Home Runs Kaggle competition.
+
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/paulrjohnson/mlb-ballparks)
+
+[Comparative Perspectives on Temperature and Field Distances](https://public.tableau.com/views/ExploringMLBTeams/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
 
