@@ -14,7 +14,7 @@
 ### First Visual 
 [Link](https://datawrapper.dwcdn.net/7LSdH/1/)
 
-![Happiness Index 2019](https://github.com/NeilGandhi31/NeilGandhi31.github.io/blob/main/7LSdH-happiness-index-for-the-first-30-countries-in-2019.png)
+![Happiness Index 2019](7LSdH-happiness-index-for-the-first-30-countries-in-2019.png)
 
 ### Second Visual 
 [Link to Panorama](https://teliportme.com/view/2117175) 
