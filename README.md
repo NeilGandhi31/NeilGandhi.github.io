@@ -16,7 +16,7 @@
 
 ![Happiness Index 2019](https://github.com/NeilGandhi31/NeilGandhi31.github.io/blob/main/7LSdH-happiness-index-for-the-first-30-countries-in-2019.png?raw=true)
 
-### Panorama of Manhasset Bay - Second Visual
+### Panorama of Manhasset Bay - Second Visual 
 [Link to Panorama](https://teliportme.com/view/2117175) 
 >This vibrant photo captures the scenic beauty of Port Washington, NY, located in Long Island. The panorama was captured on a sunny Saturday, June 10th, at 10:37 am. The weather is ideal, with the sun glistening while casting a warm glow over the surroundings. 
 
