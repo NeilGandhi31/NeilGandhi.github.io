@@ -11,12 +11,12 @@
 
 > But there's more to me than just a love for cars, books and mountainbiking. In addition to my passions for cars, books, and mountain biking, I am deeply fascinated by the world of finance and investments. Specifically, I have a keen interest in portfolio management and public equities.
 
-### First Visual 
+### Happiness Index - First Visual 
 [Link](https://datawrapper.dwcdn.net/7LSdH/1/)
 
 ![Happiness Index 2019](https://github.com/NeilGandhi31/NeilGandhi31.github.io/blob/main/7LSdH-happiness-index-for-the-first-30-countries-in-2019.png?raw=true)
 
-### Second Visual 
+### Panorama of Manhasset Bay - Second Visual
 [Link to Panorama](https://teliportme.com/view/2117175) 
 >This vibrant photo captures the scenic beauty of Port Washington, NY, located in Long Island. The panorama was captured on a sunny Saturday, June 10th, at 10:37 am. The weather is ideal, with the sun glistening while casting a warm glow over the surroundings. 
 
@@ -28,7 +28,7 @@
 
 >In this idyllic Port Washington setting, the harmonious coexistence of nature, recreation, and community is beautifully depicted, inviting viewers to appreciate the joys of a sunny weekend and the vibrant local culture.
 
-### Third Visual
+### Panorama of an intersection in Port Washington, NY - Third Visual
 [Link to Second Panorama](https://teliportme.com/view/2117171)
 >This photo captures the vibrant essence of Port Washington, NY, located on Long Island. Taken at the bustling intersection of 282 Main St and Carlton Avenue, the image showcases the lively atmosphere of this charming town. The picture was taken on Saturday, June 10th, at 10:29 am, during the start of the weekend activity.
 
